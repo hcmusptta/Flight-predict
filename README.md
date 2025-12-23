@@ -6,7 +6,6 @@
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/chienng27/Flight-Predict/actions)
-[![GitHub Stars](https://img.shields.io/github/stars/chienng27/Flight-Predict?style=social)](https://github.com/chienng27/Flight-Predict/stargazers)
 
 ## Table of Contents
 
